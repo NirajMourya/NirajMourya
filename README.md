@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Niraj Mourya</h1>
 <h3 align="center">Programmer Analyst @ Bitwise Solutions Pvt. Ltd.</h3>
+<img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
 
 -  🌍 You can find me anywhere on the internet by my alias ***@NirajMourya** or **@niraj-mourya***
 -  🌱 I’m currently learning **Node.js & React**
