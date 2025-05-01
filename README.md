@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
 
 -  🌍 You can find me anywhere on the internet by my alias ***@NirajMourya** or **@niraj-mourya***
--  🌱 I’m currently learning **Mongoose**
+-  🌱 I’m currently learning **Sequelize**
 -  🔭 I’m currently working on **MERN stack development**
 -  👯 I’m looking to collaborate on **Web Development**
 -  💬 Ask me about **MERN**, **DSA** and **Web development**
